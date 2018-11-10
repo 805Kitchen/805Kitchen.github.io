@@ -1,11 +1,12 @@
 {
     "manifest_version": 2,
-    "name": "RaterFox",
-    "description": "The most popular movies and TV shows in your   default tab. Includes ratings, summaries and the ability to watch trailers.",
+    "name": "Jeff's Kitchen",
+    "description": "805 is like a high budget version Golden Corral Buffet but they only have succulent meat, vegetables cooked to perfect, and amazing pasta.",
     "version": "1",
     "author": "Jason Tran, Tyler Lian",
    "browser_action": {
       "default_icon": "tab-icon.png",
-      "default_title": "Have a good meal"
+      "default_title": "Have a good meal",
+      "default_popup": "popup.html"
     }
    }
