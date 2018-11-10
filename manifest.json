@@ -6,7 +6,7 @@
     "author": "Jason Tran, Tyler Lian",
    "browser_action": {
       "default_icon": "tab-icon.png",
-      "default_title": "Have a good meal",
+      "default_title": "Jeff's Kitchen",
       "default_popup": "popup.html"
     }
    }
